@@ -28,5 +28,7 @@ language: de
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Ludwig Tiecks Genoveva, als romantische Dichtung betrachtet
 url: http://www.gutenberg.org/ebooks/50296
